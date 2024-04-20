@@ -1,5 +1,5 @@
-# collage
-collage or school website design by Hemant Yadav
+# YouDemi
+Educational website design by Hemant Yadav
 
-using html css and javascript
+Using HTML, CSS and Javascript
 
